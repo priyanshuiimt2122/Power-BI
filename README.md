@@ -1,3 +1,5 @@
+<img src="blinkit.png" />
+
 # 📊 Data Analysis Project: Grocery Trends & Patient History Insights
 
 ## 🗂 Project Overview
